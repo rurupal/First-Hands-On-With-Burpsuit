@@ -13,13 +13,13 @@ Creating this repo for my first experience on Burpsuit, how I captured and even 
 
 ## 🧪 What I Did
 
-I was very confused with the tool first and took chat gpt's help here to what does what.. I did everything in the temporary project as I was just excited about it.
+I was very confused with the tool first and took chat gpt's help here to understand what does what.. I did everything in the temporary project as I was just excited about the tool.
 I then learnt about intercept, like how it helps us to understand every requests and responses being made for every new search/new page open. 
 I Was first confused when I turned intercept on and wondered why the page is not loading... but saw a long list of GET requests in the HTTP history column. 
 I then turned it off again. I then just tried searching "Hello World", That generated one GET request, I sent it to the repeater. 
 I tried reading through the request And changed the "Hello World" to "Cybersecurity". and then sent it, the result was amusing as I got the new search in the render tab, but not on the firefox browser, which I was using for my actual search, as it still showed the search results for "Hello World".
 
-I tried this 2 weeks ago but thought I should just make a blog about it and I will be exploring other tools too on Kali linux.
+I tried this 2 weeks ago but thought I should just make a blog about it and I will be exploring other tools too on Kali linux and will update about it on my github.
 
 ---
 
